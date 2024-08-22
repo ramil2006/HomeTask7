@@ -7,7 +7,7 @@
 
         public Rectangular(double width, double length)
         {
-            if (width < 0 && length<0)
+            if (width < 0 || length<0)
             {
                 Console.WriteLine("teref menfi ola bilmez");
             }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|c:\\users\\lenova\\onedrive\\desktop\\hometask7\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECE314-91CD-4339-BDC6-A89E350EDB3D}|HomeTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Rectangular.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\Rectangular.cs",
               "RelativeDocumentMoniker": "Rectangular.cs",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\Rectangular.cs",
               "RelativeToolTip": "Rectangular.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T11:21:33.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Square.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\Square.cs",
               "RelativeDocumentMoniker": "Square.cs",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\Square.cs",
               "RelativeToolTip": "Square.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T11:04:21.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Figure.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\Figure.cs",
               "RelativeDocumentMoniker": "Figure.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeTask7\\HomeTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
