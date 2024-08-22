@@ -1,0 +1,14 @@
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\bin\Debug\net6.0\HomeTask.exe
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\bin\Debug\net6.0\HomeTask.deps.json
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\bin\Debug\net6.0\HomeTask.runtimeconfig.json
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\bin\Debug\net6.0\HomeTask.dll
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\bin\Debug\net6.0\HomeTask.pdb
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.AssemblyInfoInputs.cache
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.AssemblyInfo.cs
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.dll
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\refint\HomeTask.dll
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.pdb
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\HomeTask.genruntimeconfig.cache
+C:\Users\lenova\OneDrive\Desktop\HomeTask7\HomeTask\obj\Debug\net6.0\ref\HomeTask.dll
